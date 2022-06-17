@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @potpotkettle
 - 👀 I’m interested in Rust
-- 🛠️ My go-to programming language for everyday tasks is Ruby
+- 🛠️ My go-to programming language is Ruby
 - 🌱 I’m currently learning Rails
 - Not native speaker of English
-- 📫 Reach me [on Twitter](https://twitter.com/potpotketle)
+- 📫 Reach me [on Twitter](https://twitter.com/potpotkettle)
 
 <!---
 potpotkettle/potpotkettle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
