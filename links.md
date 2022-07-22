@@ -1,0 +1,2 @@
+- https://otwarchive.atlassian.net/jira/people/629ad80c9bc7150068d02078
+- https://archiveofourown.org/users/potkettle/
