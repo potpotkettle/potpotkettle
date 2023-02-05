@@ -3,7 +3,7 @@
 - 🛠️ My go-to programming language is Ruby
 - 🌱 I’m currently learning Rails
 - Not native speaker of English
-- 📫 Reach me [on Twitter](https://twitter.com/potpotkettle)
+- 📫 Reach me [via social media](https://linktr.ee/potkettle)
 
 <!---
 potpotkettle/potpotkettle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
